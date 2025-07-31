@@ -1,0 +1,2 @@
+# gitAI
+AI for Git

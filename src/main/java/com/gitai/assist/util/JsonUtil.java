@@ -1,0 +1,5 @@
+package com.gitai.assist.util;
+
+public class JsonUtil {
+
+}
